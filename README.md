@@ -13,4 +13,4 @@ Para poder ejecutar la API localmente es necesario  realizar los siguientes paso
 -Para método PUT, seleccione dentro de las opciones, después busque la opción Body>Raw>JSON(application/json) una vez hecho esto digite en formato JSON los datos que quiere cambiar del objeto, terminado esto en la URL agrega: /(ID del objeto) por ejemplo https://localhost:44362/api/Tickets/1, una vez ajustado esto le da click en "SEND", si quiere validar que se haya guardado los cambios ejecute el método Get.
 -Para el método DELETE, seleccione dentro de las opciones, después en la URL agregue: /(ID del objeto) por ejemplo https://localhost:44362/api/Tickets/1, esto se debe a que solicita un ID para poder eliminar, sino se proporciona arrojará error, agregado el ID le da click en "SEND", arrojará Status: 200 OK confirmando la eliminación sin ningún problema, si quiere validar que se haya guardado los cambios ejecute el método Get.
 
-Este ejericio es una breve introdución.
+Este ejercicio es una breve introdución al lenguaje .NET CORE.
